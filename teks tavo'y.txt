@@ -1,0 +1,17 @@
++=qo'shu
+-=ayuruv
+*=ko'payturuv
+/=bo'luv
+%=qoldiqli bo'lish (qoldiqni  chiqarib beradi)
+**=daraja
+
++=a=a+3
+
+
+and=va 
+or=yoki
+not=yoq
+
+Bita o'zgaruvchida bir nechta qiymat saqlashuchun foydalanadi listlar [] qavsda yoziladi
+
+del funksiyasi => oxirdagi elementni o'chirib beradi 
